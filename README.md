@@ -2,14 +2,14 @@ Gutter Themes for SL
 ====================
 A _Sublime Text_ package that collects custom _Gutter Themes_ for [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3).
 
-## Themes Preview
-Here you can see a preview of all the Gutter Themes included in the package. Every icon is optimized for _Retina Displays_.
+### Themes Preview
 
 | Theme                   | Error                       | Warning                     | Colorized |
 | ----------------------- | :-------------------------: | :-------------------------: | --------- |
 | Minimal                 | ![](https://db.tt/BQdyVfKF) | ![](https://db.tt/WNYX07o3) | Yes       |
 | Minimal Round           | ![](https://db.tt/Qa8BjYZs) | ![](https://db.tt/hTXauQzk) | No        |
 | Rectangle               | ![](https://db.tt/BcsDb1uh) | ![](https://db.tt/hlCVrzlJ) | Yes       |
+
 
 ## Installation
 ### Using Package Control
@@ -25,6 +25,12 @@ Navigate to your `Packages` directory and run the command below.
 - Unzip it and rename the folder to `Gutter Themes for SL`;
 - Find your `Packages` directory using the `Preferences > Browse Packages...` command;
 - Move the `Gutter Themes for SL` folder into your `Packages` directory.
+
+
+## Contributing
+Feel free to contribute with your own creation. All I ask of you is to **read the [official documentation](https://sublimelinter.readthedocs.org/en/latest/gutter_themes.html) before making a pull request!**
+
+You can also request new themes by opening a [new issue](https://github.com/SalGnt/gutter-themes-for-sl/issues).
 
 
 ## License
