@@ -9,6 +9,8 @@ A _Sublime Text_ package that collects custom _Gutter Themes_ for [SublimeLinter
 | Minimal                 | ![](https://db.tt/BQdyVfKF) | ![](https://db.tt/WNYX07o3) | Yes       |
 | Minimal Round           | ![](https://db.tt/Qa8BjYZs) | ![](https://db.tt/hTXauQzk) | No        |
 | Rectangle               | ![](https://db.tt/BcsDb1uh) | ![](https://db.tt/hlCVrzlJ) | Yes       |
+| Rectangle Vertical      | ![](https://db.tt/yeAnlYYq) | ![](https://db.tt/5yrwXe5n) | Yes       |
+| X                       | ![](https://db.tt/QE0MSnEI) | ![](https://db.tt/JB1F4WXQ) | No        |
 
 
 ## Installation
