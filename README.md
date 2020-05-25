@@ -34,6 +34,11 @@ Feel free to contribute with your own creation. All I ask of you is to **read th
 
 You can also request new themes by opening a [new issue](https://github.com/SalGnt/gutter-themes-for-sl/issues).
 
+## Changelog
+All notable changes to this project will be documented in `CHANGELOG.md`.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## License
 The _Gutter Themes for SL_ package was created by [Salvatore Gentile](https://github.com/SalGnt) and is released under **The MIT License (MIT)**.
