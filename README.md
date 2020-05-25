@@ -4,13 +4,13 @@ A _Sublime Text_ package that collects custom _Gutter Themes_ for [SublimeLinter
 
 ### Themes Preview
 
-| Theme                   | Error                       | Warning                     | Colorized |
-| ----------------------- | :-------------------------: | :-------------------------: | --------- |
-| Minimal                 | ![](https://db.tt/BQdyVfKF) | ![](https://db.tt/WNYX07o3) | Yes       |
-| Minimal Round           | ![](https://db.tt/Qa8BjYZs) | ![](https://db.tt/hTXauQzk) | No        |
-| Rectangle               | ![](https://db.tt/BcsDb1uh) | ![](https://db.tt/hlCVrzlJ) | Yes       |
-| Rectangle Vertical      | ![](https://db.tt/yeAnlYYq) | ![](https://db.tt/5yrwXe5n) | Yes       |
-| X                       | ![](https://db.tt/QE0MSnEI) | ![](https://db.tt/JB1F4WXQ) | No        |
+| Theme                   | Error                                              | Warning                                              | Colorized |
+| ----------------------- | :------------------------------------------------: | :--------------------------------------------------: | --------- |
+| Minimal                 | ![](.preview/minimal_error.png?raw=true)           | ![](.preview/minimal_warning.png?raw=true)           | Yes       |
+| Minimal Round           | ![](.preview/minimal_round_error.png?raw=true)     | ![](.preview/minimal_round_warning.png?raw=true)     | No        |
+| Rectangle               | ![](.preview/rectangle_error.png?raw=true)         | ![](.preview/rectangle_warning.png?raw=true)         | Yes       |
+| Rectangle Vertical      | ![](.preview/rectangle_vertical_error.png?raw=true) | ![](.preview/rectangle_vertical_warning.png?raw=true) | Yes       |
+| X                       | ![](.preview/x_error.png?raw=true)                 | ![](.preview/x_warning.png?raw=true)                 | No        |
 
 
 ## Installation
@@ -36,7 +36,7 @@ You can also request new themes by opening a [new issue](https://github.com/SalG
 
 
 ## License
-The _Gutter Themes for SL_ package was created by [Salvatore Gentile](https://twitter.com/_sgentile) and is released under **The MIT License (MIT)**.
+The _Gutter Themes for SL_ package was created by [Salvatore Gentile](https://github.com/SalGnt) and is released under **The MIT License (MIT)**.
 
     The MIT License (MIT)
 
